@@ -37,7 +37,8 @@ Data Visualization
 
 📂 Repository Contents
 
-📊 Power BI Dashboard (.pbix)
+📊 Power BI Dashboard 
+![Dashboard Screenshot](./Blinkit%20Dashboard%20(1).png)
 
 📈 Dataset Files
 
