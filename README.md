@@ -9,36 +9,58 @@ Through interactive visualizations and KPI-driven reporting, this dashboard enab
 🔥 Dashboard Highlights
 
 ✨ Total Sales Performance Analysis
+
 ✨ Average Sales & Customer Rating Tracking
+
 ✨ Product Category & Item Type Insights
+
 ✨ Outlet Size & Location Performance Analysis
+
 ✨ Outlet Establishment Growth Trends
+
 ✨ Interactive Filters for Dynamic Exploration
+
 ✨ KPI Cards for Executive-Level Reporting
 
 🛠️ Tech Stack
 Power BI
+
 SQL
+
 Microsoft Excel
+
 DAX
+
 Data Modeling
+
 Data Visualization
+
 📂 Repository Contents
 
 📊 Power BI Dashboard (.pbix)
+
 📈 Dataset Files
+
 🗄️ SQL Queries & Scripts
+
 📝 Project Documentation
+
 🖼️ Dashboard Screenshots
 
 🎯 Key Skills Demonstrated
 
 ✔ Data Cleaning & Transformation
+
 ✔ SQL Query Optimization
+
 ✔ Data Modeling & Relationships
+
 ✔ DAX Measures & Calculations
+
 ✔ Business Intelligence Reporting
+
 ✔ Dashboard Design & Storytelling
+
 ✔ Analytical & Problem-Solving Skills
 
 💡 Business Impact
